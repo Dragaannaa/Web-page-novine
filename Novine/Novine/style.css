@@ -1,0 +1,289 @@
+.pozadina {
+    background-color: rgb(6, 109, 150);
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.dugme {
+    float: right;
+    margin-right: 100px;
+}
+nav {
+    background-color: rgb(6, 109, 150);
+    width: 100%;
+    height: 50px; 
+    margin-top: -20px;
+    padding-right: 100px;
+}
+
+.box {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    
+    
+}
+.box a {
+    color:black;
+    
+}
+.box >div {
+    background-color: rgb(202, 200, 200);
+    
+}
+.box >div:nth-child(odd){
+    background-color: rgba(230, 223, 223, 0.938);
+}
+.lista2 {
+    margin:0%;
+}
+button{ 
+    background-color: green;
+    color: white;
+}
+.button1 {
+    background-color: rgb(47, 47, 170);
+}
+.navigacijamala{
+    padding-left:70px;
+    padding-top:5px;
+    padding-bottom:5px;
+    word-spacing: 10px;
+}
+.slika1 {
+    height: 100px;
+    background-color: rgb(248, 247, 247);
+    width: 450px;
+}
+.slika2 {
+    height: 80px;
+    background-color: rgb(248, 247, 247);
+    width: 300px;
+
+}
+.sporedni1 {
+    display: flex;
+    background-color: white;
+    margin: 15px;
+     
+}
+.container1 {
+    display: flex;
+    margin-left: 100px;
+    background-color: gray;
+    width: 25%;
+    height: 70px;
+    
+}
+.container2 {
+    background-color: gray;
+    display: flex;
+    width: 25%;
+    margin-left: 500px;
+    height: 70px;
+}
+.row1 {
+    margin-left: 15%;
+    display: flex;
+    
+}
+.sporedni11 {
+    display: flex;
+    background-color: rgb(184, 183, 183);
+    margin: 10px;
+    width: 320px;
+   
+   
+     
+}
+.najcitanije {
+    width: 100px;
+    background-color: rgb(161, 160, 160);
+}
+.hronika {
+    width: 60%;
+ 
+}
+.hron {
+    font-size: 20px;
+}
+.vrh {
+    font-size: 20px;
+    float: right;
+    margin-top: -50px;
+}
+.paragraf {
+    width: 30%;
+    float: right;
+    margin-top: -380px;
+    margin-right: 20px;
+   
+}
+.zanim {
+    width: 100%;
+    height: 300px;
+    border-style: solid;
+    border-color: rgb(235, 143, 5);
+}
+.zan1 {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(235, 143, 5);
+    margin-top: -5px;
+}
+.zani2 {
+   display: flex;
+   padding: 5px;
+}
+.container4 {
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+.tekst1 {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(151, 148, 148);
+    margin: 10px;
+    
+}
+.tekst2 {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(151, 148, 148);
+    margin: 10px;
+    
+}
+.tekst3 {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(151, 148, 148);
+    margin: 10px;
+    
+}
+.tekst4 {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(151, 148, 148);
+    margin: 10px;
+    
+}
+.oglasi {
+    border: 2px solid ;
+    border-radius: 5px;
+    margin-top: 25px;
+    width: 80%;
+    height: 400px;
+}
+.container5 {
+    display: flex;
+    width: 50%;
+    
+
+}
+.n1 {
+    width: 150px;
+    height: 250px;
+    margin: 10px;
+    background-color: rgba(201, 201, 200, 0.877);
+}
+.n2 {
+    width: 150px;
+    height: 250px;
+    margin: 10px;
+    background-color: rgba(201, 201, 200, 0.877);
+}
+.aa1 {
+    display: flex;
+    width: 350px;
+    margin: 20px;
+    background-color: rgba(201, 201, 200, 0.877);
+}
+.aa2 {
+    display: flex;
+    width: 350px;
+    margin: 20px;
+    background-color: rgba(201, 201, 200, 0.877);
+}
+.novosti {
+    width: 70%;
+}
+.novosti1 {
+    margin-left: 350px;
+    margin-top: -280px;
+
+}
+.footer {
+    background-color: rgba(10, 66, 104, 0.952);
+    width: 100%;
+    height: 300px;
+}
+.footer1 {
+    background-color: rgba(37, 116, 168, 0.952);
+    width: 100%;
+    height: 30px;
+    margin-top: -20px;
+    
+}
+.f1 {
+    font-size: 20px;
+    color: white;
+    margin-left: 200px;
+    
+}
+.footer2 {
+    background-color: gray;
+    width: 100%;
+    height: 200px;
+}
+.foot11 {
+    color: white;
+    margin-left: 200px;
+    padding: 20px;
+    font-size: 15px;
+
+}
+.foot12 {
+    color: white;
+    margin-left: 400px;
+    margin-top: -250px;
+   
+}
+.foot13 {
+    color: white;
+    margin-left: 600px;
+    margin-top: -200px;
+}
+.kutija {
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    margin-right: 180px;
+    margin-top: -250px;
+    font-size: 15px;
+}
+.kutija1 {
+    width: 600px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    margin-right: 180px;
+    margin-top: -120px;
+    font-size: 15px;
+
+}
+.prvired {
+    padding-top: 50px;
+    padding-left: 80px;
+    margin-top: -10px;
+    
+}
+.drugired {
+    padding-left: 80px;
+}
+.trecired {
+    padding-left: 80px;
+}
